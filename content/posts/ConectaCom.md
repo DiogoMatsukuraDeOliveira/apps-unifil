@@ -48,7 +48,7 @@ Com um layout intuitivo, o sistema permite a criação, visualização e organiz
 ## Documentação e Acesso
 
 - 🌐 **Web App:** https://mvpthania.onrender.com/auth.html  
-- 📄 **Repositório / GitHub:** https://github.com/DiogoMatsukuraDeOliveira/Conect  
-- 📚 **Blog / Documentação:** https://github.com/DiogoMatsukuraDeOliveira/Conect  
-
+- 👨‍💻 **Repositório** https://github.com/DiogoMatsukuraDeOliveira/Conect  
+- 📚 **Blog:** https://github.com/DiogoMatsukuraDeOliveira/Conect  
+- 📄 **Site/Documentação** https://sites.google.com/edu.unifil.br/conectacom/in%C3%ADcio
 ---
